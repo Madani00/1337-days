@@ -1,11 +1,22 @@
-#ifndef FT_POINT_H
-#define FT_POINT_H
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        :::      ::::::::   */
+/*   ft_point.h                                         :+:      :+:    :+:   */
+/*                                                    +:+ +:+         +:+     */
+/*   By: eamchart <eamchart@student.42.fr>          +#+  +:+       +#+        */
+/*                                                +#+#+#+#+#+   +#+           */
+/*   Created: 2024/07/15 17:14:41 by eamchart          #+#    #+#             */
+/*   Updated: 2024/07/15 17:18:07 by eamchart         ###   ########.fr       */
+/*                                                                            */
+/* ************************************************************************** */
 
-struct point {
-	int x;
-	int y;
-};
-typedef struct point t_point;
+#ifndef FT_POINT_H
+# define FT_POINT_H
+
+typedef struct point
+{
+	int	x;
+	int	y;
+}	t_point;
 
 #endif 
-
