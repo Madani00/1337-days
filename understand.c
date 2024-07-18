@@ -26,3 +26,28 @@ int main() {
 
     return 0;
 }
+
+
+# Passing a Pointer to a Pointer to a Function
+
+#include <stdio.h>
+
+void modify_pointer(int **ptr) {
+    *ptr = NULL; // Modifies the original pointer
+}
+
+int main() {
+    int value = 5;
+    int *p = &value;
+
+    printf("Pointer before modification: %p\n", (void *)p);
+
+    modify_pointer(&p);
+    if (p == NULL) {
+        printf("Pointer is NULL\n"); // This will be printed
+    } else {
+        printf("Pointer is not NULL\n");
+    }
+
+    return 0;
+}
