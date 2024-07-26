@@ -20,12 +20,10 @@
 > 🫂 share your knowledge and make friends
 > 
 > 🌐 learn how to use Google, Stack Overflow, ChatGPT to seek information
->
-> 🗣️ engage in events
 > 
 > 🧠 learn to write tests for edge cases
 > 
-> ⌨️ Remember To Norminette Consistently.
+> ⌨️ Remember Norminette and Moulinette isn't your enemy.
 >
 > 🤗 failure is part of the process
 >
