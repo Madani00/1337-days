@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="[images/42network_logo.png](https://ih1.redbubble.net/image.682791283.8199/raf,360x360,075,t,fafafa:ca443f4786.u2.jpg)" alt="42 Network School Logo">
+  <img src="[[images/42network_logo.png](https://ih1.redbubble.net/image.682791283.8199/raf,360x360,075,t,fafafa:ca443f4786.u2.jpg)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.redbubble.com%2Fi%2Fposter%2F1337-by-bolir%2F108199.LVTDI&psig=AOvVaw1wohFZ7r8pZdlHtISABRcK&ust=1722088725078000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCLn8fuxIcDFQAAAAAdAAAAABAJ)" alt="42 Network School Logo">
 </div>
 
 # How to Get Selected for 42 Network School
