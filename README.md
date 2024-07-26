@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="images/42network_logo.png" alt="42 Network School Logo">
+  <img src="[images/42network_logo.png](https://ih1.redbubble.net/image.682791283.8199/raf,360x360,075,t,fafafa:ca443f4786.u2.jpg)" alt="42 Network School Logo">
 </div>
 
 # How to Get Selected for 42 Network School
