@@ -67,7 +67,7 @@ To be honest, nobody knows the exact selection process for 42 Network School. Ho
 
 ## Final Tips
 - Don't worry too much. You always have a second chance.
-- If you fail, consider joining another Piscine in a different country. Many people do this.
+- If you fail, consider joining another Piscine.
 
 ## Good Luck!
 - Overall, do your best and stay committed. Good luck!
