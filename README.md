@@ -1,7 +1,7 @@
 <div align="center">
-  <h3> 1337 future us loading</h3>
+# 1337 future us loading 
 </div>
-
+---
 <div align="center">
   <img src="https://maroc-diplomatique.net/wp-content/uploads/2018/10/L%E2%80%99%C3%A9cole-1337-la-Silicon-Valley-des-Marocains-e1541005698815.jpg" alt="42 Network School Logo">
 </div>
