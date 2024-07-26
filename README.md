@@ -1,3 +1,7 @@
+![Alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLEMFGbVzzUhBRinVh8SgdN7CFRU41tuv4uNEj2exTa5OKtZJaUf6pUfLxhrjPXosVshE&usqp=CAU)
+
+
+
 # How to Get Selected for 42 Network School
 
 To be honest, nobody knows the exact selection process for 42 Network School. However, one clear thing is to do your best and give it your all. Here are some steps that might help you get selected, based on what others have experienced:
