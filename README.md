@@ -3,6 +3,37 @@
   <img src="https://maroc-diplomatique.net/wp-content/uploads/2018/10/L%E2%80%99%C3%A9cole-1337-la-Silicon-Valley-des-Marocains-e1541005698815.jpg" alt="42 Network School Logo">
 </div>
 
+
+here's a little bit of everything
+
+<div align="center">
+
+# Piscine Tips
+
+</div>
+
+> [!TIP]
+> Utilise External Tools and Resources:
+> 
+> 🫂 share your knowledge and make friends
+> 
+> 🌐 learn how to use Google, Stack Overflow, ChatGPT to seek information
+>
+> 🗣️ engage in events
+> 
+> 🧠 learn to write tests for edge cases
+> 
+> ⌨️ Remember To Norminette Consistently.
+>
+> 🤗 failure is part of the process
+>
+> 🍿 Have fun 
+
+
+
+
+<br> 
+
 # How to Get Selected for 42 Network School
 
 To be honest, nobody knows the exact selection process for 42 Network School. However, one clear thing is to do your best and give it your all. Here are some steps that might help you get selected, based on what others have experienced:
