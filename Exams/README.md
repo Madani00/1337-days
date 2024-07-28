@@ -25,7 +25,7 @@
 - 3-rev_print
 - 4-first_word
 - 5-ft_strrev
-- there is still 4 exercises left ;)  I only reach level 6
+- there is still 4 exercises left 😁  I only reach level 6 😒
 
 
 # EXAM02
