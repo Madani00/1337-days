@@ -1,6 +1,7 @@
 <div align="center">
   
-# Exam exercises I encountered in each exam ![MarvelFutureFightDoctorDoomGIF](https://github.com/user-attachments/assets/1852b2a3-eb03-4fab-abaf-a1eb9aa7ca2c)
+# Exam exercises I encountered in each exam ![ChrisMccandlessLookingIntoTheWildGIF](https://github.com/user-attachments/assets/f67c0184-e2a6-4b37-bebc-cbf24f0a08d8)
+
 
 
 </div>
