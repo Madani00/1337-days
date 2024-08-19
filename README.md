@@ -69,5 +69,8 @@ To be honest, nobody knows the exact selection process for 42 Network School. Ho
 - Don't worry too much. You always have a second chance.
 - If you fail, consider joining another Piscine.
 
+## NOTE ⛔
+= YOU may hear some people say if you fail the final exam you have a 0% chance to pass, TOTALLY not true (i failed it even though I was selected 😊) or others say if you are an ex-pooler you have to validate all the exams to pass (not true) , i know a lot of them failed some exams, at the end they get selected.
+
 ## Good Luck!
 - Overall, do your best and stay committed. Good luck!
