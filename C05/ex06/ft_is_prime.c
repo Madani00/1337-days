@@ -32,3 +32,22 @@ int	ft_is_prime(int nb)
 		return (0);
 	return (1);
 }
+
+/*  simple virsion
+int ft_is_prime(int nb)
+{
+    int i;
+
+    if (nb <= 1)
+        return (0); // Not prime if nb <= 1
+
+    i = 2;
+    while (i * i <= nb) // Check up to the square root of nb
+    {
+        if (nb % i == 0)
+            return (0); // If divisible, not prime
+        i++;
+    }
+    return (1); // Prime if no divisors found
+}
+*/
