@@ -1,39 +1,42 @@
 #include <unistd.h>
 
+
+int check(char *ptr, int max, char c)
+{
+	int i = 0;
+	while(ptr[i] && i < max)
+	{
+		if (ptr[i] == c)
+			return (0);
+		i++;
+	}
+	return (1);
+}
+
 int main(int argc, char **argv)
 {
 	int i;
-	int j;
 
 	if (argc == 3)
 	{
+		char  *p1 = argv[1];
+		char  *p2 = argv[2];
+	
 		i = 0;
-		while(argv[1][i])
+		while(p1[i])
 		{
-			j = 0 + i;
-			while (argv[2][j])
-			{
-				if (argv[2][j] == argv[1][i])
-				{
-					write(1, &argv[1][i], 1);
-					break;
-				}
-				j++;
-			}
+			if (check(p1, i, p1[i]))
+				write(1, &p1[i], 1);
 			i++;
 		}
+		i = 0;
+                while(p2[i])
+                {
+                        if (check(p2, i, p2[i]) && check(p1, i, p2[i]))
+                                write(1, &p2[i], 1);
+                        i++;
+                }
 
-			j = 0;
-			while (argv[2][j])
-			{
-				if (argv[2][j] != argv[1][i] && )
-				{
-					write(1, &argv[2][j], 1);
-				}
-				j++;
-			}
-			i++;
-	
 	}
 	write(1, "\n", 1);
 	return (0);
