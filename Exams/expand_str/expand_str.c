@@ -8,7 +8,6 @@ int main(int argc, char **argv)
 	if (argc == 2)
 	{
 		int yes;
-		int y2;
 		while (*ptr)
 		{
 			yes = 0;
